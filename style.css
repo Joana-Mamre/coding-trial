@@ -1,0 +1,20 @@
+img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+}
+p{
+   background-color:brown;
+   width: 1000px;
+   text-align: center;
+   align-items: center;
+}
+h2, h4{
+    text-align: center;
+}
+.yellow-button{
+    background-color: red;
+    color:white;
+}
+ ;
